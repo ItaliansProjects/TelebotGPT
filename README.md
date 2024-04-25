@@ -5,7 +5,7 @@ cd TelebotGPT
 
 pip install -r requirements.txt
 
-chmod +x televoto.py
+chmod +x telebot.py
 
 ./telebot.py
 
