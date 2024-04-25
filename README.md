@@ -8,3 +8,5 @@ pip install -r requirements.txt
 chmod +x televoto.py
 
 ./telebot.py
+
+![Descrizione dell'immagine](https://www.gizchina.com/wp-content/uploads/images/2023/04/ChatGPT-Logo.png)
